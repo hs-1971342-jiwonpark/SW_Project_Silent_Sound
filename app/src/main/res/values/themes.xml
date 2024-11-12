@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SW_Project" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">Inter</item>
+        <item name="android:textStyle">bold</item>
+
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="NoBackgroundBottomNavigation" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="itemBackground">@android:color/transparent</item>
+        <item name="itemRippleColor">@android:color/transparent</item>
+    </style>
+
+    <style name="toolBarText" parent="Widget.AppCompat.Toolbar">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="Theme.SW_Project" parent="Base.Theme.SW_Project" />
+</resources>

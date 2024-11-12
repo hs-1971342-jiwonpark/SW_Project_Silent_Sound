@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_medium">#AFB1B6</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="play_out_line">#FF0404</color>
+    <color name="play_inner">#E3E3E3</color>
+    <color name="pause_out_line">#928686</color>
+    <color name="pause_inner">#FEFEFE</color>
+    <color name="main_blue">#BBD6E0</color>
+    <color name="stroke_blue">#B2BCF8</color>
+</resources>
